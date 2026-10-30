@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there,
+
+Web3, JavaScript ve akıllı sözleşme entegrasyonları üzerine çalışan geliştirici.
+
+JavaScript, Node.js, HTML5, Web3.js / Ethers.js, Git.
+
+(Optimism denetleyicisi, GenLayer oracle'ı).
+
+twitter: @aralikx
 
 <!--
 **0xAralik/0xAralik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
